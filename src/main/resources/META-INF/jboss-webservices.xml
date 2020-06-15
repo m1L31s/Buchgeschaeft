@@ -1,0 +1,7 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<webservices version="1.2" xmlns="http://www.jboss.com/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.jboss.com/xml/ns/javaee">
+  <property>
+    <name>wsdl.soapAddress.rewrite.wsdl-host</name>
+    <value>192.168.10.5</value>
+  </property>
+</webservices>
